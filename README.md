@@ -1,2 +1,0 @@
-# kxmovie
-delete pods
